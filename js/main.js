@@ -260,7 +260,6 @@ decorationTabs.forEach((item, i) => {
                 overlay.style = 'display: none;';
                 item.style = 'height: 270px; width: 270px';
             });
-            
         });
     });
 
